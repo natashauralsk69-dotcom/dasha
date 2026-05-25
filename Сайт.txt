@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Приветствие</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #ffe4e1; /* Нежно-розовый фон */
+        }
+        h1 {
+            font-size: 3.5rem;
+            color: #ff4500; /* Яркий цвет текста */
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>Привет, Даша! ❤️</h1>
+</body>
+</html>
